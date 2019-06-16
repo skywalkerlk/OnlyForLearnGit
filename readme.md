@@ -1,4 +1,5 @@
 此仓库用于学习Git相关的操作和知识。
+参考资料：猴子都能懂的Git入门
 
 参考资料：https://backlog.com/git-tutorial/cn
 
